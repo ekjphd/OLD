@@ -1,4 +1,4 @@
-Home(https://ekjphd.github.io/ENC4265/) | Quick Start Guide | Manual Assessment Memo | Chatbot | Procedure Video | Manual
+<p>Home(https://ekjphd.github.io/ENC4265/) | Quick Start Guide | Manual Assessment Memo | Chatbot | Procedure Video | Manual| </p>
 
 # Welcome to my Digital Portfolio 
 
