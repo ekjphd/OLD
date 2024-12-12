@@ -1,6 +1,5 @@
 # Welcome to the Sample Portfolio Repository
 
----
 ## Note
 I have this set up for someone who is new to Github and is using it in their browser. If you are familiar with Github, feel free to use your own site organization, theme, css, etc. 
 
@@ -14,12 +13,11 @@ This is just one more skill that can help you stand out in the job market! There
 - **Commit changes...** means **save**. Don't forget to save!
 - Preview is a great way to check before saving.
 - After you click "commit changes..." it will ask you to describe your changes. It will auto-fill this, so feel free to just hit OK and not worry about notes about what you did.
----
 
+---
 ## Resources
 - [Markdown Cheatsheet] (https://www.markdownguide.org/cheat-sheet/)
 - [GitHub Quickstart Guide] (https://docs.github.com/en/pages/quickstart)
-
 ---
 
 ## How to Fork (copy) this Repository
