@@ -1,4 +1,4 @@
-<p>Home(https://ekjphd.github.io/ENC4265/) | Quick Start Guide | Manual Assessment Memo | Chatbot | Procedure Video | Manual| </p>
+<a href="index.md">Home</a> | <a href="quick_start_guide.md">Quick Start Guide</a> | <a href="manual_assessment_memo.md">Manual Assessment Memo</a> | <a href="chatbot.md">Chatbot</a> | <a href="procedure_video.md">Procedure Video</a> | <a href="manual.md">Manual</a>
 
 # Welcome to my Digital Portfolio 
 
