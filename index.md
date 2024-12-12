@@ -1,5 +1,5 @@
 # Welcome to the Sample Portfolio Repository
-
+ 
 ## Note
 I have this set up for someone who is new to Github and is using it in their browser. If you are familiar with Github, feel free to use your own site organization, theme, css, etc. 
 
@@ -12,7 +12,7 @@ This is just one more skill that can help you stand out in the job market! There
 - You can edit the markdown files directly on GitHub.
 - **Commit changes...** means **save**. Don't forget to save!
 - Preview is a great way to check before saving.
-- After you click "commit changes..." it will ask you to describe your changes. It will auto-fill this, so feel free to just hit OK and not worry about notes about what you did.
+- After you click "commit changes..." it will ask you to describe your changes. It will auto-fill this, so feel free to just hit "commit changes" and not worry about notes about what you did.
 
 ---
 ## Resources
@@ -41,12 +41,9 @@ This is just one more skill that can help you stand out in the job market! There
 
 6. **Save Your Changes**
    - After making your changes, scroll down to the "Commit changes" section.
-   - Add a commit message describing your changes, or just accept the auto-generated description (this is not a bit deal).
-   - Choose "Commit directly to the `main` branch" and click "Commit changes".
+   - It will ask you for a commit message describing your changes, but you can just accept the auto-generated description (this is not a big deal).
+   - Make sure "Commit directly to the `main` branch" is chosen (it should be by default) and click "Commit changes".
 
-7. **Submit a Pull Request**
-   - If you need to submit your changes back to the original repository, go to the "Pull requests" tab in your forked repository.
-   - Click "New pull request" and follow the instructions to create a pull request.
 
 ---
 
