@@ -7,17 +7,18 @@ I have this set up for someone who is new to Github and is using it in their bro
 This is just one more skill that can help you stand out in the job market! There is a big push for technical documents to be treated as code--and even to write them in the same software as code--for software and technical companies. Plus, Github pages use **Markdown**, which is another impressive skill for your resume.
 
 ## Basics
-- [How to Fork (copy) this Repository](https://github.com/ekjphd/ENC4265/new/main#how-to-fork-copy-this-repository)
+- [Fork (copy) and edit this whole repository](https://github.com/ekjphd/ENC4265/new/main#how-to-fork-copy-this-repository), then you can just update the content with your own work, creating your own portfolio!
 - index.md = your home page
 - You can edit the markdown files directly on GitHub.
 - **Commit changes...** means **save**. Don't forget to save!
 - Preview is a great way to check before saving.
 - After you click "commit changes..." it will ask you to describe your changes. It will auto-fill this, so feel free to just hit "commit changes" and not worry about notes about what you did.
+- Make **any changes you'd like** to show off your skills with Markdown and coding!
 
 ---
 ## Resources
-- [Markdown Cheatsheet] (https://www.markdownguide.org/cheat-sheet/)
-- [GitHub Quickstart Guide] (https://docs.github.com/en/pages/quickstart)
+- [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
+- [GitHub Quickstart Guide](https://docs.github.com/en/pages/quickstart)
 ---
 
 ## How to Fork (copy) this Repository
