@@ -1,7 +1,9 @@
 # Welcome to the Sample Portfolio Repository
  
 ## Note
-I have this set up for someone who is new to Github and is using it in their browser. If you are familiar with Github, feel free to use your own site organization, theme, css, etc. 
+I have this set up for someone who is new to Github and is using it in their browser. If you are familiar with Github, feel free to use your own site organization, theme, css, etc.
+
+Click through the sample [website](https://ekjphd.github.io/ENC4265/) and see how to organize your assignments for this course.
 
 ## Why Github?
 This is just one more skill that can help you stand out in the job market! There is a big push for technical documents to be treated as code--and even to write them in the same software as code--for software and technical companies. Plus, Github pages use **Markdown**, which is another impressive skill for your resume.
